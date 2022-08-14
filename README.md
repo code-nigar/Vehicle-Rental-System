@@ -6,4 +6,10 @@
 - Developed on `OOP` Paradigm.
 - Enables to  add new vehichle, register customer,  book vehicle, return vehicle, generate reciepts.
 
-> Note: please `change path for test.txt file` according to your directory structure.
+> Note: 
+- for Log-in to system use: 
+```sh
+username => sharjeel
+password => p123
+```
+- please `change path for test.txt file` according to your directory structure.
