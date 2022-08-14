@@ -1,0 +1,33 @@
+hello
+================ CUSTOMER: ALI ================
+=========== YOUR VEHICLE ON RENT : ============
+name:          civic
+type:          Luxury
+make:          honda
+model:         2001
+rate per day:  1000.0
+
+name:          Subaru
+type:          casual
+make:          Nisan
+model:         2020
+rate per day:  5000.0
+
+name:          Audi A8
+type:          Luxury
+make:          Audi
+model:         2021
+rate per day:  50000.0
+
+name:          Hiace
+type:          van
+make:          Toyota
+model:         2015
+rate per day:  15000.0
+
+name:          civic
+type:          Luxury
+make:          honda
+model:         2001
+rate per day:  1000.0
+
